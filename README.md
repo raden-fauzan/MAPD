@@ -9,4 +9,5 @@ Simulasi ini menggambarkan sistem pengantaran barang otomatis dengan pendekatan 
 2. Instal dependensi:
    ```bash
    pip install pygame
-  
+## Simulasi
+![Simulasi MAPD](./simulasi.jpg)
